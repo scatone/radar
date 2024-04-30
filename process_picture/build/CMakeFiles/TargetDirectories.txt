@@ -1,0 +1,3 @@
+/home/zhouyan/code/process_picture/build/CMakeFiles/edit_cache.dir
+/home/zhouyan/code/process_picture/build/CMakeFiles/rebuild_cache.dir
+/home/zhouyan/code/process_picture/build/CMakeFiles/ProcessPicture.dir
